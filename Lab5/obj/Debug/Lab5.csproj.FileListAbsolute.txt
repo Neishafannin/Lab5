@@ -1,0 +1,6 @@
+C:\Users\Neisha\Desktop\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Neisha\Desktop\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Neisha\Desktop\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Neisha\Desktop\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\Neisha\Desktop\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Neisha\Desktop\Lab5\Lab5\obj\Debug\Lab5.pdb
